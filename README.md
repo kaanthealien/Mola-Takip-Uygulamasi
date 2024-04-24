@@ -14,7 +14,7 @@ Uygulamanın  Temel Özellikleri:
  -Personelleri düzenleme(ekleme,silme,kullanıcı adı ve şifrelerini düzenleme vs.)
  -Belirli tarih ve aralıkta istenilen kullanıcıların mola sürelerini getirme.
 
-Uygulamaya Ait Ekran Görüntüleri
+                                                                                        ------Uygulamaya Ait Ekran Görüntüleri------
 
 1-Giriş Ekranı:
 ![Ekran görüntüsü 2024-04-24 141004](https://github.com/kaanthealien/Mola-Takip-Uygulamasi/assets/134944208/dfd07d85-e854-4e12-90ab-7a86252ba644)
